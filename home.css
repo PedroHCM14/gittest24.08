@@ -8,7 +8,7 @@
     border-radius: 10px;
     background-image: url(https://static.wikia.nocookie.net/breakingbad/images/e/e0/Saul_2009.jpg/revision/latest?cb=20220812220131);
     background-position: bottom 900px right 0px;
-    font-size: 20px;
+    font-size: 25px;
 }
 
 #page2 {
@@ -16,3 +16,6 @@
     color: red;
 }
 
+#div2-1 {
+    color: blue;
+}
